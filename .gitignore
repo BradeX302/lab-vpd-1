@@ -23,3 +23,5 @@ obj/
 # Operating system files
 .DS_Store
 Thumbs.db
+# Generated TypeScript files
+src/typescript/main.js
