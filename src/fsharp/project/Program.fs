@@ -16,3 +16,5 @@ printfn "Hello, %s!" studentEn
 printfn "Привет, %s!" studentRu
 printfn "Student ID: %s | Language: %s | Control: %d" studentId language controlValue
 printfn "English name total length: %d" nameLength
+let wordCount = studentEn.Split(' ').Length
+printfn "English name words: %d" wordCount
