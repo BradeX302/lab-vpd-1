@@ -1,0 +1,25 @@
+# Executable files
+*.exe
+*.dll
+*.pdb
+*.class
+
+# Object files
+*.o
+*.obj
+
+# .NET build files
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
