@@ -102,3 +102,4 @@
 ## Git
 
 Основная ветка проекта — `main`. Ветка дополнительной разработки — `feature/fsharp`.
+Main developer: Stavropoltsev Andrey Viktorovich
